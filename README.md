@@ -31,9 +31,17 @@
 
 ---
 
-### 📊 GitHub 贡献
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=ommzhangsong&theme=dark&hide_border=true)
+### 🐍 代码贡献可视化
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
 ### 🐍 贪吃蛇代码贡献图
 
 <picture>
