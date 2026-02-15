@@ -32,11 +32,8 @@
 ---
 
 ### 📊 GitHub 数据
-<!-- 替换为稳定的备用域名 + 正确用户名 + 强制刷新缓存 -->
-![GitHub Stats](https://github-readme-stats-rho-six.vercel.app/api?username=ommzhangsong&show_icons=true&theme=dark&hide_border=true&count_private=true&v=2)
-![Top Langs](https://github-readme-stats-rho-six.vercel.app/api/top-langs/?username=ommzhangsong&layout=compact&theme=dark&hide_border=true&count_private=true&v=2)
-
----
+![GitHub Stats](https://github-profile-readme-generator.vercel.app/api/github-stats?username=ommzhangsong&theme=dark&hide_border=true)
+![Top Langs](https://github-profile-readme-generator.vercel.app/api/top-langs?username=ommzhangsong&layout=compact&theme=dark&hide_border=true)
 
 ### 🐍 贪吃蛇代码贡献图
 
