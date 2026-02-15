@@ -1,6 +1,6 @@
-# Hi there 👋
 
-### 🙋 Hi，你好
+
+### 🙋 Hi，there
 
 我是 **Ryan**，一名后端开发工程师，专注于 Go 语言开发与算法实践。
 
@@ -41,14 +41,6 @@
   </picture>
 </div>
 
----
-### 🐍 贪吃蛇代码贡献图
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
