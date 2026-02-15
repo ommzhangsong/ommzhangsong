@@ -31,9 +31,8 @@
 
 ---
 
-### 📊 GitHub 数据
-![GitHub Stats](https://github-profile-readme-generator.vercel.app/api/github-stats?username=ommzhangsong&theme=dark&hide_border=true)
-![Top Langs](https://github-profile-readme-generator.vercel.app/api/top-langs?username=ommzhangsong&layout=compact&theme=dark&hide_border=true)
+### 📊 GitHub 贡献
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/wakatime?username=ommzhangsong&theme=dark&hide_border=true)
 
 ### 🐍 贪吃蛇代码贡献图
 
