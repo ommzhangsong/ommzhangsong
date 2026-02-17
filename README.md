@@ -34,27 +34,9 @@
 
 ---
 
-### 🐍 代码贡献可视化
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ommzhangsong/ommzhangsong/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
 
 ---
 
-### 🚀 精选项目
-
-| 项目名称 | 简介 | 技术栈 |
-|---------|------|--------|
-| [项目1](https://github.com/ommzhangsong) | 基于 Go 实现的高性能后端服务 | Go、Redis、MySQL |
-| [项目2](https://github.com/ommzhangsong) | Python 数据分析工具 | Python、Pandas、Matplotlib |
-| [LeetCode 题解](https://github.com/ommzhangsong) | Go 语言刷 LeetCode 题解 | Go、算法、数据结构 |
-
----
 
 ### ✨ 关于我
 - 🌱 正在学习：云原生、微服务架构
